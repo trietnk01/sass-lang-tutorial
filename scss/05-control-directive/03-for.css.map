@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAII,AAAA,EAAE,CAAI;EACF,SAAS,EAAE,IAAI;CAClB;;AAFD,AAAA,EAAE,CAAI;EACF,SAAS,EAAE,IAAI;CAClB;;AAFD,AAAA,EAAE,CAAI;EACF,SAAS,EAAE,IAAI;CAClB;;AAFD,AAAA,EAAE,CAAI;EACF,SAAS,EAAE,IAAI;CAClB",
+    "sources": [
+        "03-for.scss"
+    ],
+    "names": [],
+    "file": "03-for.css"
+}

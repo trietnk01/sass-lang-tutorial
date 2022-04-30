@@ -1,0 +1,12 @@
+$txt_size:10px;
+$image_url:"./../../images";
+$liva:"liva";
+h1{
+    font-size: $txt_size;
+}
+.bg_image{
+    background-image: url('#{$image_url}/background.png');
+}
+.p_#{$liva}{
+    font-size: $txt_size;
+}

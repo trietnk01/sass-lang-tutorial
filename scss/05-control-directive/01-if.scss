@@ -1,0 +1,17 @@
+p{
+    @if 1+1==2{border:1px solid blue}
+}
+$type:"monster";
+p{
+    @if($type=="ocean"){
+        color: black;
+    }@else{
+        @if($type=="matador"){
+            color: pink;
+        }@else{
+            @if($type=="monster"){
+                color: green;
+            }
+        }
+    }
+}

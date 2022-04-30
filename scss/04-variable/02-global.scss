@@ -1,0 +1,8 @@
+$text_size:20px;
+h3{
+    $h3_text_size:30px;
+    font-size: $text_size;
+    p{
+        font-size: $h3_text_size;
+    }
+}
