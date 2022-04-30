@@ -2,5 +2,7 @@ $headerElement:h1,h2,h3,h4,h5;
 $fontSize:55px,50px,45px,40px,35px;
 $len:length($headerElement);
 @for $i from 1 to $len {
-    
+    #{nth($headerElement,$i)}{
+        font-size:nth($fontSize,$i) ;
+    }
 }
